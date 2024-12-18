@@ -66,7 +66,7 @@ The network topology consists of:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://gitclone.com/github.com/filzarahma/Build-Topology-dengan-Mininet.git
+git clone https://github.com/filzarahma/Build-Topology-dengan-Mininet.git
 ```
 
 ### Step 2: Run the Python Script
